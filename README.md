@@ -1,4 +1,4 @@
-<h2 align="left">Hello! 👋 My name is Hamza Moussaoui, and I'm a passionate data engineer driven science  from the beautiful country of Morocco.</h2>
+<h2 align="left">Hello! 👋 My name is Hamza Moussaoui, and I'm a passionate software engineer  from the beautiful country of Morocco.</h2>
 
 ###
 
